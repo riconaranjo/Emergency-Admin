@@ -48,7 +48,7 @@ Now we delete the file:
 
 `rm /var/db/.AppleSetupDone`
 
->_Or if you're scared of messing up like I >was, you can use this command to rename the >file instead:_
+>_Or if you're scared of messing up like I was, you can use this command to rename the file instead:_
 >
 >`mv /var/db/.AppleSetupDone >/var/db/.AppleSetupDoneOLD`
 
